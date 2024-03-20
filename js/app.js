@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "snap",
+    title: "Snap",
     githubLink: "https://github.com/azamjonoff/snap",
     vercelLink: "https://snap-bice-nu.vercel.app/",
   },
@@ -8,6 +8,51 @@ const projects = [
     title: "Chanel",
     githubLink: "https://github.com/azamjonoff/Chanel-card-component",
     vercelLink: "https://chanel-card-component.vercel.app/",
+  },
+  {
+    title: "Blog Preview Card",
+    githubLink: "https://github.com/azamjonoff/blog-preview-card",
+    vercelLink: "https://blog-preview-card-nine-phi.vercel.app/",
+  },
+  {
+    title: "My Card",
+    githubLink: "https://github.com/azamjonoff/my-card",
+    vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/my-card",
+  },
+  {
+    title: "Qr-code",
+    githubLink: "https://github.com/azamjonoff/Qr-code",
+    vercelLink: "https://qr-code-eight-flax.vercel.app/",
+  },
+  {
+    title: "Pixer",
+    githubLink: "https://github.com/azamjonoff/Pixer-project",
+    vercelLink: "https://pixer-project-beta.vercel.app/",
+  },
+  {
+    title: "Uzbekistan-regions",
+    githubLink: "https://github.com/azamjonoff/uzbekistan-regions",
+    vercelLink: "https://uzbekistan-regions-q184.vercel.app/",
+  },
+  {
+    title: "Akademnashr",
+    githubLink: "https://github.com/azamjonoff/akademnashr",
+    vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/akademnashr",
+  },
+  {
+    title: "Football-backround-image",
+    githubLink: "https://github.com/azamjonoff/football-backround-image",
+    vercelLink: "https://football-backround-image.vercel.app/",
+  },
+  {
+    title: "Ansormed",
+    githubLink: "https://github.com/azamjonoff/ansormed",
+    vercelLink: "https://ansormed-kappa.vercel.app/",
+  },
+  {
+    title: "Usa",
+    githubLink: "https://github.com/azamjonoff/usa",
+    vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/usa",
   },
 ];
 
