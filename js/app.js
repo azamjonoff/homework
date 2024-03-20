@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: "Tip-calculator",
+    githubLink: "https://github.com/azamjonoff/tip-calculator",
+    vercelLink: "https://tip-calculator-sepia-rho.vercel.app/",
+  },
+  {
     title: "Snap",
     githubLink: "https://github.com/azamjonoff/snap",
     vercelLink: "https://snap-bice-nu.vercel.app/",
