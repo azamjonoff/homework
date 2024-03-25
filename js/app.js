@@ -59,6 +59,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/usa",
     vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/usa",
   },
+  {
+    title: "Type-goals",
+    githubLink: "https://github.com/azamjonoff/backround-video",
+    vercelLink: "https://backround-video.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
