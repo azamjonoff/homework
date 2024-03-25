@@ -1,10 +1,5 @@
 const projects = [
   {
-    title: "Tip-calculator",
-    githubLink: "https://github.com/azamjonoff/tip-calculator",
-    vercelLink: "https://tip-calculator-sepia-rho.vercel.app/",
-  },
-  {
     title: "Snap",
     githubLink: "https://github.com/azamjonoff/snap",
     vercelLink: "https://snap-bice-nu.vercel.app/",
@@ -60,10 +55,15 @@ const projects = [
     vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/usa",
   },
   {
+    title: "Tip-calculator",
+    githubLink: "https://github.com/azamjonoff/tip-calculator",
+    vercelLink: "https://tip-calculator-sepia-rho.vercel.app/",
+  },
+  {
     title: "Type-goals",
     githubLink: "https://github.com/azamjonoff/backround-video",
     vercelLink: "https://backround-video.vercel.app/",
-  },
+  }
 ];
 
 const template = document.querySelector("template");
