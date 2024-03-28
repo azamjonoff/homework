@@ -63,7 +63,12 @@ const projects = [
     title: "Type-goals",
     githubLink: "https://github.com/azamjonoff/backround-video",
     vercelLink: "https://backround-video.vercel.app/",
-  }
+  },
+  {
+    title: "Castaway",
+    githubLink: "https://github.com/azamjonoff/Castaway",
+    vercelLink: "https://castaway-fawn.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
