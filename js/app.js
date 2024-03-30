@@ -69,6 +69,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Castaway",
     vercelLink: "https://castaway-fawn.vercel.app/",
   },
+  {
+    title: "Create-x",
+    githubLink: "https://github.com/azamjonoff/create-x",
+    vercelLink: "https://create-x-gilt.vercel.app/",
+  }
 ];
 
 const template = document.querySelector("template");
