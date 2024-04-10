@@ -78,7 +78,12 @@ const projects = [
     title: "Crowdfund",
     githubLink: "https://github.com/azamjonoff/crowdfund",
     vercelLink: "https://crowdfund-taupe-iota.vercel.app/",
-  }
+  },
+  {
+    title: "Animations",
+    githubLink: "https://github.com/azamjonoff/Animations",
+    vercelLink: "https://animations-psi-lovat.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
