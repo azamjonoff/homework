@@ -84,6 +84,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Animations",
     vercelLink: "https://animations-psi-lovat.vercel.app/",
   },
+  {
+    title: "My-team",
+    githubLink: "https://github.com/azamjonoff/My-team-project",
+    vercelLink: "https://my-team-project-lilac.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
