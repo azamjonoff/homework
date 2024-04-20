@@ -89,6 +89,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/My-team-project",
     vercelLink: "https://my-team-project-lilac.vercel.app/",
   },
+  {
+    title: "Amaliy mashgulot JS",
+    githubLink: "https://github.com/azamjonoff/JavaScript-1-amaliy-mashgulot",
+    vercelLink: "https://java-script-1-amaliy-mashgulot.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
