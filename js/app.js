@@ -94,6 +94,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/JavaScript-1-amaliy-mashgulot",
     vercelLink: "https://java-script-1-amaliy-mashgulot.vercel.app/",
   },
+  {
+    title: "Javascript 3-dars",
+    githubLink: "https://github.com/azamjonoff/javascript-masalalari",
+    vercelLink: "https://javascript-masalalari.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
