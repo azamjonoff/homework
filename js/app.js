@@ -99,6 +99,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/javascript-masalalari",
     vercelLink: "https://javascript-masalalari.vercel.app/",
   },
+  {
+    title: "Javascript 4-dars",
+    githubLink: "https://github.com/azamjonoff/Javascript-matters-for-loop",
+    vercelLink: "https://javascript-matters-for-loop.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
