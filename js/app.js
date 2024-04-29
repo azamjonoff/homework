@@ -109,6 +109,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Javascript-function-matters",
     vercelLink: "https://javascript-function-matters.vercel.app/",
   },
+  {
+    title: "Design-portfolio",
+    githubLink: "https://github.com/azamjonoff/design-website",
+    vercelLink: "https://design-website-coral.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
