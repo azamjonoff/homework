@@ -124,6 +124,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/javascript-array-2nd-part",
     vercelLink: "https://javascript-array-2nd-part.vercel.app/",
   },
+  {
+    title: "Javascript 9-dars",
+    githubLink: "https://github.com/azamjonoff/javascript-matters-map-filter",
+    vercelLink: "https://javascript-matters-map-filter.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
