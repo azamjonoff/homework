@@ -17,7 +17,7 @@ const projects = [
   {
     title: "My Card",
     githubLink: "https://github.com/azamjonoff/my-card",
-    vercelLink: "https://vercel.com/abdullohs-projects-f68d1567/my-card",
+    vercelLink: "https://my-card-taupe.vercel.app/",
   },
   {
     title: "Qr-code",
