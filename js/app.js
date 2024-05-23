@@ -139,6 +139,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Modal-in-Js",
     vercelLink: "https://modal-in-js-ten.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy 3-dars",
+    githubLink: "https://github.com/azamjonoff/Keyboard-events-in-Js",
+    vercelLink: "https://keyboard-events-in-js.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
