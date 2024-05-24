@@ -144,6 +144,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Keyboard-events-in-Js",
     vercelLink: "https://keyboard-events-in-js.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy 4-dars",
+    githubLink: "https://github.com/azamjonoff/Drum-kit",
+    vercelLink: "https://drum-kit-rho-bay.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
