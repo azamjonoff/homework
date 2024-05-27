@@ -149,6 +149,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Drum-kit",
     vercelLink: "https://drum-kit-rho-bay.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy 6-dars",
+    githubLink: "https://github.com/azamjonoff/Guess-my-number",
+    vercelLink: "https://guess-my-number-nine-khaki.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
@@ -165,5 +170,5 @@ projects.forEach((project) => {
   linkGithub.href = project.githubLink;
   linkVercel.href = project.vercelLink;
 
-  worksList.appendChild(clone);
+  worksList.prepend(clone);
 });
