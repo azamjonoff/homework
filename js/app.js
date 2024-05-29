@@ -150,6 +150,11 @@ const projects = [
     vercelLink: "https://drum-kit-rho-bay.vercel.app/",
   },
   {
+    title: "Javascript 5-oy 5-dars",
+    githubLink: "https://github.com/azamjonoff/music-player",
+    vercelLink: "https://music-player-ten-phi.vercel.app/",
+  },
+  {
     title: "Javascript 5-oy 6-dars",
     githubLink: "https://github.com/azamjonoff/Guess-my-number",
     vercelLink: "https://guess-my-number-nine-khaki.vercel.app/",
