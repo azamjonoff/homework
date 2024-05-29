@@ -159,6 +159,16 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Guess-my-number",
     vercelLink: "https://guess-my-number-nine-khaki.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy 7-dars Linear Gradient",
+    githubLink: "https://github.com/azamjonoff/Linear-gradient-body",
+    vercelLink: "https://linear-gradient-body.vercel.app/",
+  },
+  {
+    title: "Javascript 5-oy 7-dars Todo Project",
+    githubLink: "https://github.com/azamjonoff/Todo-Project-by-JS",
+    vercelLink: "https://todo-project-by-js.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
