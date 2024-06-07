@@ -174,6 +174,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Random-User",
     vercelLink: "https://random-user-ruby.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy 10-dars Todo Project",
+    githubLink: "https://github.com/azamjonoff/Weather-app",
+    vercelLink: "https://weather-app-three-weld-79.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
