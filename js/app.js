@@ -171,8 +171,8 @@ const projects = [
   },
   {
     title: "Javascript 5-oy 9-dars Todo Project",
-    githubLink: "https://github.com/azamjonoff/Random-User",
-    vercelLink: "https://random-user-ruby.vercel.app/",
+    githubLink: "https://github.com/azamjonoff/Random-user",
+    vercelLink: "https://random-user-eight-gamma.vercel.app/",
   },
   {
     title: "Javascript 5-oy 10-dars Todo Project",
