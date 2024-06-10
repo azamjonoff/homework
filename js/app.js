@@ -179,6 +179,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Weather-app",
     vercelLink: "https://weather-app-three-weld-79.vercel.app/",
   },
+  {
+    title: "Javascript 5-oy Imtihon",
+    githubLink: "https://github.com/azamjonoff/Exam-5-month",
+    vercelLink: "https://exam-5-month-blond.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
