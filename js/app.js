@@ -184,6 +184,11 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/Exam-5-month",
     vercelLink: "https://exam-5-month-blond.vercel.app/",
   },
+  {
+    title: "React 6-oy 2-dars",
+    githubLink: "https://github.com/azamjonoff/CreateUser",
+    vercelLink: "https://create-user-iota.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
