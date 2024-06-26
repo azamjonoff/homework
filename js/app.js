@@ -189,6 +189,12 @@ const projects = [
     githubLink: "https://github.com/azamjonoff/CreateUser",
     vercelLink: "https://create-user-iota.vercel.app/",
   },
+  {
+    title: "React 6-oy 5-dars",
+    githubLink: "https://github.com/azamjonoff/Product-Store",
+    vercelLink:
+      "https://product-store-hs3oq9kwz-abdullohs-projects-f68d1567.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
