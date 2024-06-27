@@ -190,6 +190,11 @@ const projects = [
     vercelLink: "https://create-user-iota.vercel.app/",
   },
   {
+    title: "React 6-oy 4-dars",
+    githubLink: "https://github.com/azamjonoff/Articles",
+    vercelLink: "https://articles-blond.vercel.app/",
+  },
+  {
     title: "React 6-oy 5-dars",
     githubLink: "https://github.com/azamjonoff/Product-Store",
     vercelLink:
