@@ -170,14 +170,19 @@ const projects = [
     vercelLink: "https://todo-project-by-js.vercel.app/",
   },
   {
-    title: "Javascript 5-oy 9-dars Todo Project",
+    title: "Javascript 5-oy 9-dars Random User",
     githubLink: "https://github.com/azamjonoff/Random-user",
     vercelLink: "https://random-user-eight-gamma.vercel.app/",
   },
   {
-    title: "Javascript 5-oy 10-dars Todo Project",
+    title: "Javascript 5-oy 10-dars Weather App",
     githubLink: "https://github.com/azamjonoff/Weather-app",
     vercelLink: "https://weather-app-three-weld-79.vercel.app/",
+  },
+  {
+    title: "Javascript 5-oy 11-dars About Product",
+    githubLink: "https://github.com/azamjonoff/About-product",
+    vercelLink: "https://about-product.vercel.app/",
   },
   {
     title: "Javascript 5-oy Imtihon",
